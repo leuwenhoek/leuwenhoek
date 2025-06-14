@@ -24,15 +24,11 @@ A curious **builder** and **learner** crafting random projects in my free time. 
 ## 🔥 Featured Projects
 Here’s a glimpse of what I’ve been building:
 
-### [Sleep Detection System](https://github.com/yourusername/sleep-detection-system)
+### [Sleep Detection System](https://github.com/leuwenhoek/sleep-detection)
 A system to monitor and detect sleep patterns using sensors.
 - **Tech**: Arduino, C++, Sensors
 - **Status**: Completed 🎉
 
-### [Personal Portfolio](https://github.com/yourusername/portfolio)
-A sleek website showcasing my projects and skills.
-- **Tech**: HTML, CSS, Flask
-- **Status**: Work in Progress 🚧
 
 *Check out more on [my GitHub repositories](https://github.com/leuwenhoek?tab=repositories)!*
 

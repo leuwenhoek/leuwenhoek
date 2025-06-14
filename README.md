@@ -42,6 +42,11 @@ A system to monitor and detect sleep patterns using sensors.
 
 ---
 
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=leuwenhoek&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=leuwenhoek&theme=tokyonight)
+
+---
+
 ## 🤝 Let’s Connect!
 Got an idea for a cool project or just want to chat about tech? Drop me a message!
 - [X](https://x.com/leuwenhoek)

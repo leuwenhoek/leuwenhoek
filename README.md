@@ -49,7 +49,7 @@ A system to monitor and detect sleep patterns using sensors.
 
 ## 🤝 Let’s Connect!
 Got an idea for a cool project or just want to chat about tech? Drop me a message!
-- [X](https://x.com/leuwenhoek)
+- [X](https://x.com/_leuwenhoek_)
 - Working on something awesome? Let’s collaborate!
 
 *“Code is like poetry; it’s all about expressing ideas with elegance.”*

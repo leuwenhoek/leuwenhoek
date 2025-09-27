@@ -13,10 +13,10 @@ A curious **builder** and **learner** crafting random projects in my free time. 
 ---
 
 ## 🛠️ My Tech Stack
-[![Skills](https://skillicons.dev/icons?i=arduino,html,css,python,cpp,flask,git)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=arduino,html,css,python,cpp,flask,git,opencv,sqlite,figma)](https://skillicons.dev)
 
 - **Languages**: Python, C++, HTML, CSS
-- **Frameworks/Tools**: Flask, Arduino, Git
+- **More Frameworks/Tools**: numpy,Pandas,tkinter
 - **Exploring**: IoT platforms and embedded systems
 
 ---
@@ -50,6 +50,7 @@ A system to monitor and detect sleep patterns using sensors.
 ## 🤝 Let’s Connect!
 Got an idea for a cool project or just want to chat about tech? Drop me a message!
 - [X](https://x.com/_leuwenhoek_)
+- [Instagram.com](https://instagram.com/_leuwenhoek_)
 - Working on something awesome? Let’s collaborate!
 
 *“Code is like poetry; it’s all about expressing ideas with elegance.”*
